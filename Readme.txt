@@ -1,6 +1,9 @@
---------------------------
-  Scale Patterns to 100%
---------------------------
+++++++++++++++++++++++++++++++++
++                              +
++    Scale Patterns to 100%    +
++      <---------------->      +
++                              +
+++++++++++++++++++++++++++++++++
 
 A Photoshop script to change all Pattern Layer scales and Layer Style Pattern Overlay scales to 100%. Most code by David Jensen. Lots of assistance by Mike Hale, Paul MR and Jacobolus.
 
